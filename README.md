@@ -56,11 +56,3 @@ Follow the steps below to set up and run this project on your local machine:
 ## Acknowledgments
 
 The project uses the ReqRes.in API for demonstration purposes.
-
-```
-
-```
-
-```
-
-```
