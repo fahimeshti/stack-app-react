@@ -18,11 +18,18 @@ Follow the steps below to set up and run this project on your local machine:
 
    ```
 
-2. cd your-repo
+2. ```shell
+   cd your-repo
 
-3. npm install
+   ```
 
-4. npm start
+3. ```shell
+   npm install
+   ```
+
+4. ```shell
+   npm start
+   ```
 
 ## Pages
 
@@ -49,3 +56,11 @@ Follow the steps below to set up and run this project on your local machine:
 ## Acknowledgments
 
 The project uses the ReqRes.in API for demonstration purposes.
+
+```
+
+```
+
+```
+
+```
