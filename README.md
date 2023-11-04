@@ -19,7 +19,7 @@ Follow the steps below to set up and run this project on your local machine:
    ```
 
 2. ```shell
-   cd your-repo
+   cd stack-app-anchorb
 
    ```
 
